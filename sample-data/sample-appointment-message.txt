@@ -1,0 +1,14 @@
+Hello John,
+
+This is a friendly reminder about your upcoming Dental Checkup.
+
+📅 Date: August 10, 2026
+🕙 Time: 10:30 AM
+📍 Location: SmileCare Clinic
+
+Please arrive 10 minutes early.
+
+If you need to reschedule, contact us before your appointment.
+
+Thank you,
+SmileCare Clinic
