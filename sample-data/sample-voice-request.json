@@ -1,0 +1,9 @@
+{
+  "name": "John Carter",
+  "phone": "+15551234567",
+  "appointment": "Dental Checkup",
+  "date": "2026-08-10",
+  "time": "10:30 AM",
+  "location": "SmileCare Clinic",
+  "message": "Hello John, this is a reminder that your Dental Checkup is scheduled for August 10 at 10:30 AM at SmileCare Clinic. We look forward to seeing you."
+}
