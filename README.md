@@ -3,7 +3,7 @@
 ![n8n](https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4.1-412991?style=for-the-badge)
 ![Google Calendar](https://img.shields.io/badge/Google-Calendar-4285F4?style=for-the-badge)
-![Retell AI](https://img.shields.io/badge/Retell-AI-Voice%20Agent-success?style=for-the-badge)
+![ReTell AI](https://img.shields.io/badge/ReTell-AI%20Voice-blue?style=for-the-badge)
 ![Voice AI](https://img.shields.io/badge/Voice-Automation-blue?style=for-the-badge)
 ![Scheduling](https://img.shields.io/badge/Appointments-Automated-orange?style=for-the-badge)
 
